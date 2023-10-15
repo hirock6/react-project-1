@@ -2,7 +2,8 @@
 const nextConfig = {
   output: 'export',
   images: {
-  
+    loader: 'custom',
+  },
 }
  
 module.exports = nextConfig
